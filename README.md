@@ -1,8 +1,11 @@
 # hello-world
-Github・gitのチュートリアルには、以下の記事を参照しました。
 
-## GUI（ウェブブラウザからgithub.com）で
+Githubおよびgitのチュートリアルには、以下の記事を参照しました。
 
+
+## GUIで
+
+ウェブブラウザからgithub.comでやるチュートリアルです。
 リポジトリの作成・ブランチの作成・コミット・プルリクエスト・マージ
 
 GitHubチュートリアル-Hello Worldプロジェクト--Qiita  
@@ -11,14 +14,14 @@ GitHubチュートリアル-Hello Worldプロジェクト--Qiita
 
 ## CUI（gitコマンド）で
 
-GitHub 初心者による GitHub 入門（１）〜 git のインストールとセットアップ・リポジトリの作成・ clone 〜  
+gitコマンドを使って色々するチュートリアルです。以下の3ページを順番にやりました。
+
+GitHub 初心者による GitHub 入門（１）〜 git のインストールとセットアップ・リポジトリの作成・ clone 〜  
 <https://qiita.com/megu_ma/items/e459e62821bdd6dbaccb>
-
-GitHub 初心者による GitHub 入門（２）〜 status みて add して commit して push したい 〜  
+↓
+GitHub 初心者による GitHub 入門（２）〜 status みて add して commit して push したい 〜  
 <https://qiita.com/megu_ma/items/03388e1979b3fc0539f7>
-
+↓
 GitHubで共同開発のためのチュートリアル-Qiita  
 <https://qiita.com/takeokunnn/items/5bc499121a21f8c5b990>
-
-
 
