@@ -29,3 +29,16 @@ GitHub 初心者による GitHub 入門（２）〜 status みて add して com
 GitHubで共同開発のためのチュートリアル-Qiita  
 <https://qiita.com/takeokunnn/items/5bc499121a21f8c5b990>
 
+### かなりまとまってる
+
+gitの使い方
+<https://gist.github.com/poutyface/758790/2459b8c611462cce58ac4d6556bd79f9aec762cb>
+
+超要約
+
+    # 新しいファイルがあるとき
+    git add -A
+    # 新しいファイルが無ければ
+    git commit -a -m "commit message"
+    git push
+    # (git push origin master:master)
